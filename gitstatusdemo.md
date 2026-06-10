@@ -1,1 +1,0 @@
-Git status demo text!
